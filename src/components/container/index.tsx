@@ -11,7 +11,7 @@ export function Container() {
 
   useEffect(() => {
     loadData();
-  }, []);
+  }, [loadData]);
 
   const Loading = () => {
     return <p>Loading data...</p>;
