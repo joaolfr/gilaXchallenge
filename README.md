@@ -1,4 +1,4 @@
-Project Page ["https://gila-xchallenge-nhgr.vercel.app/"]
+Project Page [https://gila-xchallenge-nhgr.vercel.app/]
 
 Improvements from the initial Gila Challenge project
 
