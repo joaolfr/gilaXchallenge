@@ -8,3 +8,10 @@ Improvements from the initial Gila Challenge project
 - Responsivity
 
 As a future improvemente, few tests could be implemented to cover UI render and API requests.
+
+...to run locally
+
+npm install
+
+npm run dev
+
