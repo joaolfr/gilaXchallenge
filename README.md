@@ -1,8 +1,8 @@
-Project Page ["https://gila-xchallenge-nhgr.vercel.app/"]
+[Project Page](https://gila-xchallenge-nhgr.vercel.app/)
 
 Improvements from the initial Gila Challenge project
 
-- Use of ShadcnUI["https://ui.shadcn.com/"] for component style
+- Use of [Shadcn UI](https://ui.shadcn.com/) for component style
 - Better componentization
 - Forcing the node version to run the project properly
 - Responsivity
